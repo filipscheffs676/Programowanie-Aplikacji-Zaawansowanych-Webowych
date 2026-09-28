@@ -1,0 +1,20 @@
+#lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+
+#lista li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+.wyrozniony {
+    background-color: #ffe066;
+    border-color: #f59f00;
+    font-weight: bold;
+}
